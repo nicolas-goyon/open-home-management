@@ -1,0 +1,14 @@
+{
+    "name": "open-home-management",
+    "description": "A home management system that is open-source.",
+    "author": "Nicolas G.",
+    "license": "MIT",
+    "versions": [
+        {
+            "version": "0.0.1-alpha",
+            "changes": [
+                "Brainstorming and ideas."
+            ]
+        }
+    ]
+}
